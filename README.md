@@ -54,6 +54,18 @@ Pygame is successfully installed as shown in the image above.
 ![pygame confirmation](https://media.geeksforgeeks.org/wp-content/uploads/20210415121950/WhatsAppImage20210415at121849PM.jpeg)
 
 
+| KEY | ACTION              |
+| :-------- |  :------------------------- |
+| `Q` |INCREASE THE SPEED  |
+
+
+
+## Related
+
+Here are some related project
+
+[ SNAKE_GAME ](https://github.com/hacker-404-error/SnakeGame)
+
 
 ## Credits
 
