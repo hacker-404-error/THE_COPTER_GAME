@@ -29,7 +29,7 @@ This Helicopter_Game Is Made Using Python 3 & Pygame Module.
 ## HOW TO PLAY
     1. Download zip file
     2. Extract the zip file
-    3. run the main.exe file
+    3. run the HelicopterGame.exe file
     4. Enjoy the game
 
 ## USING main.py FILE
