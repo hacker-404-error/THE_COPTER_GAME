@@ -25,12 +25,22 @@
 This Helicopter_Game Is Made Using Python 3 & Pygame Module.
 
 
+### WELCOME_SCREEN / GAME_WINDOW / EXIT_SCREEN
+<p align="center" width="100%">
+    <img width="33%" src="https://i.ibb.co/CVgzdkb/front.png"> 
+    <img width="33%" src="https://i.ibb.co/YhLB7cV/game.png"> 
+    <img width="33%" src="https://i.ibb.co/NNQB0Ly/back.png"> 
+</p>
+
+
 
 ## HOW TO PLAY
     1. Download zip file
     2. Extract the zip file
     3. run the HelicopterGame.exe file
     4. Enjoy the game
+    
+    
 
 ## USING main.py FILE
     >NOTE - Python & Pygame Module should be installed already before playing through main.py.
