@@ -9,15 +9,6 @@
 <a href="https://github.com/hacker-404-error/THE_COPTER_GAME"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=yellow"></a>
 <a href="https://github.com/smaranjitghose/"><img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?v=103"></a>
 </p>
-<p align="center">
-<a href="https://github.com/hacker-404-error/SnakeGame/graphs/contributors"><img src="https://img.shields.io/github/contributors/hacker-404-error/SnakeGame?color=brightgreen"></a>
-<a href="https://github.com/hacker-404-error/SnakeGame/stargazers"><img src="https://img.shields.io/github/stars/hacker-404-error/SnakeGame?color=0059b3"></a>
-<a href="https://github.com/hacker-404-error/SnakeGame/network/members"><img src="https://img.shields.io/github/forks/hacker-404-error/SnakeGame?color=yellow"></a>
-<a href="https://github.com/hacker-404-error/SnakeGame/issues"><img src="https://img.shields.io/github/issues/hacker-404-error/SnakeGame?color=0059b3"></a>
-<a href="https://github.com/hacker-404-error/SnakeGame/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/hacker-404-error/SnakeGame?color=yellow"></a>
-<a href="https://github.com/hacker-404-error/SnakeGame/pulls"><img src="https://img.shields.io/github/issues-pr/hacker-404-error/SnakeGame?color=brightgreen"></a>
-<a href="https://github.com/hacker-404-error/SnakeGame/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/hacker-404-error/SnakeGame?color=0059b3"></a>
-</p>
 
 
 
