@@ -66,6 +66,7 @@ Pygame is successfully installed as shown in the image above.
 | KEY | ACTION              |
 | :-------- |  :------------------------- |
 | `Q` |INCREASE THE SPEED  |
+| `UP_ARROW` |TO STRAT AND AND CONTROL COPTER |
 
 
 
