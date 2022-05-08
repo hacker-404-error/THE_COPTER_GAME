@@ -3,38 +3,42 @@
 # THE_COPTER_GAME
 
 
+
+
+ 
+<p align="center" width="100%">
+    <img width="30%" src="https://www.pikpng.com/pngl/b/227-2273246_apache-ah-white-helicopter-rotor-clipart.png"> 
+</p>
+
 <p align="center">
 <a href="https://github.com/hacker-404-error/THE_COPTER_GAME"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
 <a href="https://github.com/hacker-404-error/THE_COPTER_GAME"><img src="https://img.shields.io/badge/Built%20by-developers%20%3C%2F%3E-0059b3"></a>
 <a href="https://github.com/hacker-404-error/THE_COPTER_GAME"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=yellow"></a>
 <a href="https://github.com/smaranjitghose/"><img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?v=103"></a>
 </p>
+  
 
-
-
-![Logo](https://i.ibb.co/RQfTqds/BIRD.png)          
-This Helicopter_Game Is Made Using Python 3 & Pygame Module.
-
-
-### WELCOME_SCREEN / GAME_WINDOW / EXIT_SCREEN
 <p align="center" width="100%">
-    <img width="32%" src="https://i.ibb.co/CVgzdkb/front.png"> 
-    <img width="32%" src="https://i.ibb.co/YhLB7cV/game.png"> 
-    <img width="32%" src="https://i.ibb.co/NNQB0Ly/back.png"> 
+    <img width="33%" src="https://github.com/hacker-404-error/THE_COPTER_GAME/blob/main/gameheli.gif"> 
 </p>
 
-
-
+<p align="center">
+    <h3 align="center">This Helicopter_Game Is Made Using Python 3 & Pygame Module.</h3>
+</p>  
 ## HOW TO PLAY
     1. Download zip file
     2. Extract the zip file
     3. run the HelicopterGame.exe file
     4. Enjoy the game
     
-    
-<p align="left" width="100%">
-    <img width="33%" src="https://github.com/hacker-404-error/THE_COPTER_GAME/blob/main/gameheli.gif"> 
+### WELCOME_SCREEN / GAME_WINDOW / EXIT_SCREEN
+<p align="center" width="100%">
+    <img width="32%" src="https://i.ibb.co/CVgzdkb/front.png"> 
+    <img width="32%" src="https://i.ibb.co/YhLB7cV/game.png"> 
+    <img width="32%" src="https://i.ibb.co/NNQB0Ly/back.png"> 
 </p>
+    
+
 
     
 
